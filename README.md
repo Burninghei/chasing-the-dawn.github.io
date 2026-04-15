@@ -1,3 +1,6 @@
-# chasing-the-dawn.github.io
-A pages!
-<img width="600" height="900" alt="库宣传图600x900(英文）" src="https://github.com/user-attachments/assets/4718ee0e-3018-4859-a036-25dbc1f2ae09" />
+# 欢迎！点击按钮哦
+<img width="462" height="174" alt="小宣传图462x174" src="https://github.com/user-attachments/assets/450421a1-953e-4a5e-b19a-81d0a8f2fcde" />
+<a href="steam://openurl/https://store.steampowered.com/app/3946120/">
+  <img src="https://github.com/user-attachments/assets/你的图片ID" alt="点击跳转Steam" width="200" />
+</a>
+
